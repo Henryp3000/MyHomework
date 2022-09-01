@@ -1,0 +1,17 @@
+My Shell Notes
+(mkdir) Make Directory:  this is the first step to make a new directory 
+(Pwd) Print working Directory: (shows your path ways)
+(Cd) Change Directory: to move around in the file
+(ls) List Directories: Show a list of directories in the file
+(touch) will create a new file 
+(cat) will display the conencts of a file
+(file) will desrcibe the file type
+(less) will display large files  (remember less is more)
+(History) Allows you to see previously entered commmands
+(git add) to add a file
+(git commit) to commit a file to the folder
+(rm) if you want to remove a file
+(clear) to clear up the page so it doesn't get to messy
+(mv) if you want to move a file
+(cp) if you wan to copy a file
+ 
